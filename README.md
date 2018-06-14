@@ -18,3 +18,6 @@ I just hope you have these basic things:
 **Since you've read this till here. I assume you've all this. So now let's actually begin**
 
 **Head to the [Wiki](https://github.com/mvaisakh/github/wiki/So,-The-Starting.)**
+
+If you have any doubts/issues, feel free to open up issues on this repo, comment on any page or commits.
+Likewise, if you are an Android developer, and want to ask doubts to me in person, then tag me with @mvaisakh in the Telegram group [Android ROM Developer Chat](https://t.me/android_builders_help). But I will not respond to personal queries or personal messages (Because lot of spams, hope you understand) and also I find the group a better means of communicating.
