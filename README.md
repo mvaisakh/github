@@ -11,7 +11,7 @@ I just hope you have these basic things:
 
   1. **A github account (Mandatory)**
   
-  2. **A linux machine**
+  2. **A Computer with git installed**
 
   3. **A friggin brain**
 
